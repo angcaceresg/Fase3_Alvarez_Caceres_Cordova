@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'catalogo.apps.CatalogoConfig',
     'login.apps.LoginConfig',
     'rest_framework',
+    'staticfiles',
     
 ]
 
